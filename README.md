@@ -16,8 +16,6 @@ Core Functionality
 
 ✅ Route Management: Named routes via GetX
 
-✅ Auth Flow: Login, Register, Forget Password
-
 ✅ Dashboard: Home + Profile + Edit Profile
 
 ✅ Clean Architecture: Domain, Data, Presentation separation
@@ -129,6 +127,7 @@ mycompanymyapp://notification
 
 Happy Deep Linking! 🚀
 
-This project demonstrates real-world deep linking implementation with modern Flutter development practices.
+*This project demonstrates real-world deep linking implementation with modern Flutter development practices.*
+
 
 💡 Made with ❤️ using Flutter by [Mohammad Afzal](https://github.com/Mohammad-Afzal786)
