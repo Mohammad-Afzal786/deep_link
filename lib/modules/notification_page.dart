@@ -6,7 +6,7 @@ class NotificationPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Center(child: Text("🔔 Notification page")),
+      body: Center(child: Text("🔔 Notification new  ")),
     );
   }
 }
